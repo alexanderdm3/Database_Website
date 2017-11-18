@@ -32,7 +32,7 @@
 	
 	if ($password == $value){
 		echo "Test";
-		header('Location: http://jasmine.cs.vcu.edu:20038/~alexanderdm3/home.php');
+		header('Location: http://jasmine.cs.vcu.edu:20038/~alexanderdm3/main.html');
 	}
 
 	// Close the Oracle connection
